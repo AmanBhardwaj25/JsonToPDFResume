@@ -1,0 +1,16 @@
+{
+  "name": "jobhuntagent",
+  "version": "1.0.0",
+  "description": "simple code to output pdf resume",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pdfkit": "^0.18.0",
+    "puppeteer": "^24.42.0"
+  }
+}
